@@ -9,7 +9,7 @@
 ### Warning
 
 I injected pure C++ in my brain every single day for the full duration of the course!
-```
+```C++
 #include <iostream>
 
 void main(){
@@ -17,7 +17,8 @@ void main(){
 }
 ```
 *So, some coding solution you find in my code are not recommended to use and can cause brain damage.*
-<span style="color:red">**Always consult your doctor before beginning any serious coding**</span>.
+
+**Always consult your doctor before beginning any serious coding**.
 
 ### Course structure
 
