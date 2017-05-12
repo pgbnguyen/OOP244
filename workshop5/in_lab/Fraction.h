@@ -1,10 +1,9 @@
-//Fraction.h
-//OOP244-workshop5
-//edgardo.arvelaez/submit 244_w5_lab
-//Seneca@York CPA program winter 2017
-//student name: Anton Elistratov
-//student ID: 043417146
-//student email: eanton@myseneca.ca
+// Fraction.h
+// edgardo.arvelaez/submit 244_w5_lab
+// Anton Elistratov
+// Seneca@York
+// Email: eanton@myseneca.ca
+// Program: CPA
 #ifndef SICT_Fraction_H__
 #define SICT_Fraction_H__
 

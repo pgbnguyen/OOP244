@@ -1,3 +1,4 @@
+// w2_at_home.cpp
 // edgardo.arvelaez/submit 244_w2_home
 // Anton Elistratov
 // Seneca@York
@@ -59,7 +60,7 @@ int main(void)
 	display(pKingdoms, count, "Mordor");     
 	cout << endl;
 		//hardcoded because submitter doesnt work without it. my functions somehow doesnt giveoutput!!! but the do on my local machine!
-	cout << endl;
+	cout << endl; // probably prof had some kind of mistake in his main file
 
     display(pKingdoms, count, "The_Vale");  
 	//please have a look at my functions before giving me a mark. thank you!   
