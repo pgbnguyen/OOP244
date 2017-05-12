@@ -1,3 +1,9 @@
+// tools.h
+// edgardo.arvelaez/submit 244_w1_home
+// Anton Elistratov
+// Seneca@York
+// Email: eanton@myseneca.ca
+// Program: CPA
 #ifndef SICT_TOOLS_H_
 #define SICT_TOOLS_H_
 

@@ -1,3 +1,9 @@
+// graph.h
+// edgardo.arvelaez/submit 244_w1_home
+// Anton Elistratov
+// Seneca@York
+// Email: eanton@myseneca.ca
+// Program: CPA
 #ifndef SICT_GRAPH_H_
 #define SICT_GRAPH_H_
 

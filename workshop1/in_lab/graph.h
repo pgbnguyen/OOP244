@@ -1,3 +1,9 @@
+// graph.h
+// edgardo.arvelaez/submit 244_w1_lab
+// Anton Elistratov
+// Seneca@York
+// Email: eanton@myseneca.ca
+// Program: CPA
 // Maximum number of samples in an graph
 #define MAX_NO_OF_SAMPLES 20
 

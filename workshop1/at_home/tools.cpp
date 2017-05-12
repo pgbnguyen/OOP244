@@ -1,3 +1,9 @@
+// tools.cpp
+// edgardo.arvelaez/submit 244_w1_home
+// Anton Elistratov
+// Seneca@York
+// Email: eanton@myseneca.ca
+// Program: CPA
 #include <iostream>
 #include "tools.h"
 
