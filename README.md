@@ -12,8 +12,9 @@ I injected pure C++ in my brain every single day for the full duration of the co
 ```C++
 #include <iostream>
 
-void main(){
+int main(){
     std::cout << "C++ is awesome! I like it!";
+    return 0;
 }
 ```
 *So, some coding solution you find in my code are not recommended to use and can cause brain damage.*
@@ -37,20 +38,10 @@ When I was a OOP244 student we had 10 workshops and one final project.
 + [Workshop 10](https://github.com/tony-elistratov/OOP244/tree/master/workshop10)
 
 #### Final Project
-+ [Milestone 1](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Milestone 2](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Milestone 3](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Milestone 4](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Milestone 5](http://www.senecacollege.ca/ce/classes/OOP244.html)
++ [Milestone 1](https://github.com/tony-elistratov/OOP244/tree/master/finalproject/milestone1)
++ [Milestone 2](https://github.com/tony-elistratov/OOP244/tree/master/finalproject/milestone2)
++ [Milestone 3](https://github.com/tony-elistratov/OOP244/tree/master/finalproject/milestone3)
++ [Milestone 4](https://github.com/tony-elistratov/OOP244/tree/master/finalproject/milestone4)
++ [Milestone 5](https://github.com/tony-elistratov/OOP244/tree/master/finalproject/milestone5)
 
 Feel free to have a look!
-
-
-
-
-
-
-
-
-
-
