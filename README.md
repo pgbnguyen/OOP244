@@ -25,16 +25,16 @@ void main(){
 When I was a OOP244 student we had 10 workshops and one final project.
 
 #### Workshops
-+ [Workshop 1](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 2](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 3](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 4](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 5](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 6](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 7](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 8](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 9](http://www.senecacollege.ca/ce/classes/OOP244.html)
-+ [Workshop 10](http://www.senecacollege.ca/ce/classes/OOP244.html)
++ [Workshop 1](https://github.com/tony-elistratov/OOP244/tree/master/workshop1)
++ [Workshop 2](https://github.com/tony-elistratov/OOP244/tree/master/workshop2)
++ [Workshop 3](https://github.com/tony-elistratov/OOP244/tree/master/workshop3)
++ [Workshop 4](https://github.com/tony-elistratov/OOP244/tree/master/workshop4)
++ [Workshop 5](https://github.com/tony-elistratov/OOP244/tree/master/workshop5)
++ [Workshop 6](https://github.com/tony-elistratov/OOP244/tree/master/workshop6)
++ [Workshop 7](https://github.com/tony-elistratov/OOP244/tree/master/workshop7)
++ [Workshop 8](https://github.com/tony-elistratov/OOP244/tree/master/workshop8)
++ [Workshop 9](https://github.com/tony-elistratov/OOP244/tree/master/workshop9)
++ [Workshop 10](https://github.com/tony-elistratov/OOP244/tree/master/workshop10)
 
 #### Final Project
 + [Milestone 1](http://www.senecacollege.ca/ce/classes/OOP244.html)
